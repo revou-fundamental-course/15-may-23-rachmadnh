@@ -1,0 +1,51 @@
+body {
+    background: #d3d3d314;
+}
+
+header {
+    background: #5189ba;
+    text-align: center;
+    padding: 20px 20px;
+}
+
+h3  {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.title {
+    font-weight: bold;
+    color: white;
+}
+
+.subtitle {
+    color: #d9d9d9;
+    font-size: small;
+}
+
+.card {
+    background: white;
+
+}
+
+.figure {
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.example-square {
+    border: 1px solid red;
+    height: 40px;
+    width: 40px;
+}
